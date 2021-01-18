@@ -1,6 +1,6 @@
 # Workout Tracker
 
-<!-- [![Demo](https://img.youtube.com/vi/qFALY7wiOts/0.jpg)](http://www.youtube.com/watch?v=qFALY7wiOts) -->
+![Project Screenshot](public/images/projscreenshot.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
