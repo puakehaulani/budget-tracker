@@ -1,4 +1,4 @@
-# Workout Tracker
+# Budget Tracker
 
 ![Project Screenshot](public/images/projscreenshot.png)
 
@@ -21,7 +21,7 @@
 
 ## About the Project
 
-Workout Tracker is an app to track a users budget. It uses a NoSQL database to store user information about the users transactions, and can be used offline. The transactions pend until the user is online again.
+Budget Tracker is an app to track a users budget. It uses a NoSQL database to store user information about the users transactions, and can be used offline. The transactions pend until the user is online again.
 
 ## Usage
 
