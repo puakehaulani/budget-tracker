@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [Explore the docs](https://github.com/puakehaulani/budget-tracker)
+[See the deployment](https://warm-atoll-10602.herokuapp.com/)
 
 ---
 
